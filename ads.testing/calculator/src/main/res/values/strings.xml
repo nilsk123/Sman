@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculator</string>
+    <string name="action_settings">Settings</string>
+    <string name="inputHint">Fill in some number</string>
+    <string name="outputHint">Outcome will be displayed here</string>
+    <string name="buttonCalculate">Calculate</string>
+    <string name="radioButtonAdd">Add</string>
+    <string name="radioButtonSubtract">Subtract</string>
+    <string name="radioButtonMultiply">Multiply</string>
+    <string name="radioButtonDivide">Divide</string>
+    <string name="operatorUnknown">Unknown operator</string>
+    <string name="noNumbersPresent">Please provide numbers for caculatation</string>
+
+</resources>
